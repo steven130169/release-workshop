@@ -21,6 +21,6 @@ module.exports = {
             'chore(release): ${nextRelease.version} [skip ci]',
         },
       ],
-        
+      '@semantic-release/github',    
     ],
   };
