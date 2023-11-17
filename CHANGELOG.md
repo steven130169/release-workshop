@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/steven130169/release-workshop/compare/v1.0.0...v1.1.0) (2023-11-17)
+
+
+### Features
+
+* add demo ([e8444a0](https://github.com/steven130169/release-workshop/commit/e8444a020a1a186741ce261efef9ab20e47c5a97))
+
 # 1.0.0 (2023-11-17)
 
 
